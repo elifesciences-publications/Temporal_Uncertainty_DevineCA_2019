@@ -1,3 +1,4 @@
+### This code is associated with the paper from Devine et al., "The role of premature evidence accumulation in making difficult perceptual decisions under temporal uncertainty". eLife, 2019. http://dx.doi.org/10.7554/eLife.48526
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
